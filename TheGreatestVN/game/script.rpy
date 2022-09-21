@@ -49,15 +49,6 @@ label start:
     # directory.
 
     show eileen happy
-
-    # These display lines of dialogue.
-
-    e "You've created a new Ren'Py game."
-
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
-    # This ends the game.
-
     return
 label HCMTAM:
     "Good taste! It's no surprise this comes with health benefits. You can rely on it to help with sore throats and drowsy mornings"
@@ -80,8 +71,20 @@ label HCMTAM:
     am "I understand, aren't you going to college for studying game design?"
     e "Yeah, I was going to Singapore, to get a diploma"
     am "Yeah, I'm sure you can get anywhere with grades like yours"
+    e "No, I had to give up so many friends and time for grades"
     e "I know we have friends for 7 years now, but please let me act on my emotions for now"
     e "I am jealous of you in every form imaginable"
+    am "What reason do you have to be jealous of me"
+    e "I would like to have as many friends as you and be as sociable"
+    e "I would love to be as funny as you and as loyal and truthful as you"
+    am "I don't think you understand this, but you are a amazing person"
+    am "I envy you, how hardworking you are, how passionate you are and how much you care about family"
+    am "And.. I'm going to miss you a lot"
+    am "I love you my brother"
+    e "Why do you have to make me cry now bro"
+    e "Thank you for being my friend, for listening to me and always being their for me"
+    e "I love you, Good luck my friend"
+    
 label CMAS:
     "Caramel Macchiato"
 label WHCAN:
